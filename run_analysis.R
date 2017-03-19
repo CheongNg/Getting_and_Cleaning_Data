@@ -1,5 +1,4 @@
 library(dplyr)
-library(tidyr)
 
 #[TASK 1 & 4]
 
